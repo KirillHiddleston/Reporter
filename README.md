@@ -23,7 +23,7 @@
 - [Changes (CHANGELOG)](./CHANGELOG.md)
 ----
 
-<h2 id="overview">Обзор</h2>
+<h2 id="overview">Description</h2>
 
 reporter — is a tool for generating reports for ml training or ect.
 Base on jinja2.
