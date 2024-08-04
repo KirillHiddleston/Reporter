@@ -1,0 +1,4 @@
+pytest-runner==6.0.0
+pytest>=7.0.1
+pytest-testdox>=3.0.0
+pytest-cov>=3.0.0

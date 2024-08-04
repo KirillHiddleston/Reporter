@@ -1,0 +1,7 @@
+types-orjson
+types-ujson
+types-dataclasses
+types-PyYAML
+types-setuptools
+mypy>=0.982
+ruff

@@ -1,0 +1,38 @@
+contacts:
+  telegram: "telegram_nickname"
+  email: "youmail"
+
+
+model:
+  model_name: "model_name"
+  model_id: "model_id"
+
+
+classes:
+  - GrantCode
+  - GrantDate
+  - Grant
+  - Birthday
+  - Gender
+  - Name
+  - Number
+  - FamilyName
+  - LastName
+  - BirthPlace
+  - MRZ_1
+  - MRZ_2
+
+
+dataset:
+  train: "count_images"
+  val: "count_images"
+  test: "count_images"
+
+
+scores:
+  best_epoch: "num_of_epoch"
+  best_score: "score"
+
+
+reproduce:
+  docker_image: "example"

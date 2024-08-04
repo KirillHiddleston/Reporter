@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: Reporter
+Version: 0.1
+Summary: make report for valodation models
+Home-page: https://github.com/KirillHiddleston/reporter.git
+Author: Kirill Hiddelston
+Author-email: kkhiddleston@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Operating recursive-include package *System :: POSIX :: Linux
+Classifier: Topic :: Scientific/Engineering
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.9
+Provides-Extra: format
+Provides-Extra: lint
+Provides-Extra: test
+License-File: LICENSE
+
+UNKNOWN
+
